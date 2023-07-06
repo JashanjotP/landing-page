@@ -113,3 +113,40 @@ footer{
     background-color: #1F2937;
     color: #E5E7EB;
 }
+.info{
+    margin-top: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+    margin-bottom: 40px;
+}
+.box{
+    border: 3px #3882F6 solid;
+    border-radius: 8px;
+    height: 140px;
+    width: 150px;
+    margin-bottom: 12px;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    
+}
+
+.box-text{
+    display: flex;
+    flex-direction: column;
+    width: 155px;
+    text-align: center;
+    font-size: 14px;
+    color: #1F2937;
+}
+
